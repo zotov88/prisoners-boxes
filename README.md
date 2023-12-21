@@ -1,0 +1,1 @@
+#### Проверка решения <a href="https://www.youtube.com/watch?v=wWQ9YdreY9c" target="_blank">задачи</a> о 100 заключенных на нужном количестве итераций
